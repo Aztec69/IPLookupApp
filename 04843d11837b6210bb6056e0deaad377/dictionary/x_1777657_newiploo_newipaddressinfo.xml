@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f8b87d95837b6210bb6056e0deaad3ff" label="NewIPAddressInfo" max_length="40" name="x_1777657_newiploo_newipaddressinfo" type="collection">
+        <element label="Region" max_length="40" name="region" type="string"/>
+        <element label="Postal" max_length="40" name="postal" type="string"/>
+        <element label="IP Address" max_length="40" name="ip_address" type="string"/>
+        <element label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Time Zone" max_length="40" name="time_zone" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+    </element>
+</database>

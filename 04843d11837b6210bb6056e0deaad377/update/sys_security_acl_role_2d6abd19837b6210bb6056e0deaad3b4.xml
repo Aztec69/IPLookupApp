@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 12:52:37</sys_created_on>
+        <sys_id>2d6abd19837b6210bb6056e0deaad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777657_newiploo_newipaddressinfo.x_1777657_newiploo.newipaddressinfo_user</sys_name>
+        <sys_package display_value="NewIPLookUp" source="x_1777657_newiploo">04843d11837b6210bb6056e0deaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NewIPLookUp">04843d11837b6210bb6056e0deaad377</sys_scope>
+        <sys_security_acl display_value="x_1777657_newiploo_newipaddressinfo">a56abd19837b6210bb6056e0deaad3b1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2d6abd19837b6210bb6056e0deaad3b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 12:52:37</sys_updated_on>
+        <sys_user_role display_value="x_1777657_newiploo.newipaddressinfo_user" name="x_1777657_newiploo.newipaddressinfo_user">156af919837b6210bb6056e0deaad30f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
